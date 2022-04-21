@@ -26,14 +26,14 @@ const About = () => {
 
           <div className='about__cards'>
             <article className='about__card'> 
-            <FaAward className='about_icon'/>
+            <FaAward className='about__icon'/>
 
             <h5> Experience </h5>
             <small> 2+ Years </small> 
             </article>
 
             <article className='about__card'> 
-            <VscFolderLibrary className='about_icon'/>
+            <VscFolderLibrary className='about__icon'/>
 
             <h5> Projects </h5>
             <small> Pending </small> 
